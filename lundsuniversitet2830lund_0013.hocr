@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lundsuniversitet2830lund_0013.png"; bbox 0 0 2035 2844; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 434 451 1525 530">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 434 451 1525 530">
+     <span class='ocr_line' id='line_1_1' title="bbox 434 451 1525 530; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 434 452 901 527; x_wconf 75' lang='lat' dir='ltr'><strong>ANALECTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 962 451 1525 530; x_wconf 76' lang='lat' dir='ltr'>ALGOLOGICA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 76 865 1886 926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 76 865 1886 926">
+     <span class='ocr_line' id='line_1_2' title="bbox 76 865 1886 926; baseline 0.001 -5"><span class='ocrx_word' id='word_1_3' title='bbox 76 865 567 922; x_wconf 63' lang='lat' dir='ltr'>OBSERVATIONES</span> <span class='ocrx_word' id='word_1_4' title='bbox 598 866 673 922; x_wconf 73' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 703 865 1027 923; x_wconf 66' lang='lat' dir='ltr'>SPEGIEBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1058 867 1355 924; x_wconf 72' lang='lat' dir='ltr'><strong>ALGARUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1386 868 1573 924; x_wconf 72' lang='lat' dir='ltr'>MINUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1603 867 1886 926; x_wconf 64' lang='lat' dir='ltr'>COGNITIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 576 1174 1380 1240">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 576 1174 1380 1240">
+     <span class='ocr_line' id='line_1_3' title="bbox 576 1174 1380 1240; baseline 0.004 -11"><span class='ocrx_word' id='word_1_9' title='bbox 576 1175 649 1230; x_wconf 77' lang='lat' dir='ltr'>EA</span> <span class='ocrx_word' id='word_1_10' title='bbox 662 1174 908 1240; x_wconf 77' lang='lat' dir='ltr'>RUMQUE</span> <span class='ocrx_word' id='word_1_11' title='bbox 945 1175 1380 1232; x_wconf 66' lang='lat' dir='ltr'>DISPOSITIONE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 677 1559 1281 1605">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 677 1559 1281 1605">
+     <span class='ocr_line' id='line_1_4' title="bbox 677 1559 1281 1605; baseline 0.008 -14"><span class='ocrx_word' id='word_1_12' title='bbox 677 1559 857 1593; x_wconf 58' lang='lat' dir='ltr'>Arsvnuuz</span> <span class='ocrx_word' id='word_1_13' title='bbox 886 1560 918 1605; x_wconf 89' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_14' title='bbox 950 1559 997 1594; x_wconf 90' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1028 1561 1281 1596; x_wconf 86' lang='lat' dir='ltr'>AGARDH.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

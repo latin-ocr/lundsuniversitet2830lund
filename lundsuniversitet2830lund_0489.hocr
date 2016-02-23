@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lundsuniversitet2830lund_0489.png"; bbox 0 0 2035 2844; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 560 467 1376 526">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 560 467 1376 526">
+     <span class='ocr_line' id='line_1_1' title="bbox 560 467 1376 526; baseline 0.011 -9"><span class='ocrx_word' id='word_1_1' title='bbox 560 467 1376 526; x_wconf 37' lang='lat' dir='ltr'>IAJ&lt;T5FA(}EE⁴SEMR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 902 682 1045 701">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 902 682 1045 701">
+     <span class='ocr_line' id='line_1_2' title="bbox 902 682 1045 701; baseline 0.007 -1"><span class='ocrx_word' id='word_1_2' title='bbox 902 682 1045 701; x_wconf 64' lang='lat' dir='ltr'>OFVEH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 286 853 1653 929">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 286 853 1653 929">
+     <span class='ocr_line' id='line_1_3' title="bbox 286 853 1653 929; baseline 0.006 -8"><span class='ocrx_word' id='word_1_3' title='bbox 286 853 822 924; x_wconf 73' lang='lat' dir='ltr'>LJUSETS</span> <span class='ocrx_word' id='word_1_4' title='bbox 888 854 1653 929; x_wconf 70' lang='lat' dir='ltr'>BETYDELSE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 166 1246 1771 1353">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 166 1246 1771 1353">
+     <span class='ocr_line' id='line_1_4' title="bbox 166 1246 1771 1353; baseline 0.005 -8"><span class='ocrx_word' id='word_1_5' title='bbox 166 1246 785 1349; x_wconf 72' lang='lat' dir='ltr'>FRONS</span> <span class='ocrx_word' id='word_1_6' title='bbox 868 1261 1771 1353; x_wconf 68' lang='lat' dir='ltr'><strong>GHONING.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 735 1796 1185 1848">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 735 1796 1185 1848">
+     <span class='ocr_line' id='line_1_5' title="bbox 735 1796 1185 1848; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 735 1796 1185 1848; x_wconf 69' lang='lat' dir='ltr'>3.J6NSSON.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 835 2604 1070 2627">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 835 2604 1070 2627">
+     <span class='ocr_line' id='line_1_6' title="bbox 835 2604 1070 2627; baseline 0.004 -2"><span class='ocrx_word' id='word_1_8' title='bbox 835 2604 1070 2627; x_wconf 70' lang='lat' dir='ltr'>LUN01893.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
